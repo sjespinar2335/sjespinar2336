@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: #ffffff;
+    scroll-behavior: smooth;
+}
+.OrderInterface{
+    background-color: #22577E;
+    display: block;
+    margin: 10% auto 0 auto;
+    height: 50vh;
+    width: 500px;
+    padding: 30px;
+    border-radius: 20px;
+}
+table tr{
+    text-align: left;
+}
+#btn, #btn2{
+    background-color: #1363DF;
+    color: #ffffff;
+    padding: 5px;
+    border: none;
+}
+#AddMinusBtn button{
+    width: 30px;
+}
